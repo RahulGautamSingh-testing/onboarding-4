@@ -3,10 +3,10 @@
 First I created the onboarding PR using old logic
 Then I ran again new logic
 
-## Expectations
+## Expectations:
   - update the old cache
   - no rebasing
   
-Observations:
+## Observations:
   - update the old cache ✅
   - no rebasing ✅
