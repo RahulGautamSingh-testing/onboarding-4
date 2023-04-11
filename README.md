@@ -8,4 +8,5 @@ Then I ran again new logic
   - no rebasing
   
 Observations:
-
+  - update the old cache ✅
+  - no rebasing ✅
